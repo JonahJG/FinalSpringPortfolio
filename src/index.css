@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@200;400&family=Source+Code+Pro&display=swap");
+
+div {
+  background-color: #181818;
+}
+
+.tab {
+  height: 50px;
+  padding-bottom: 10px;
+  overflow: hidden;
+  background-color: #252525;
+}
+
+.tab1 {
+  background-color: #181818;
+  height: 60px;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  padding-top: 10px;
+  transition: 0.3s;
+}
+
+.tab1p {
+  background-color: inherit;
+  height: 60px;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  padding-top: 10px;
+  transition: 0.3s;
+}
+
+.tab2 {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  padding-top: 10px;
+  transition: 0.3s;
+}
+
+.tab2p {
+  background-color: #181818;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  padding-top: 10px;
+  transition: 0.3s;
+}
+
+.tab3 {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  padding-top: 10px;
+  transition: 0.3s;
+}
+
+.numbers {
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #a9a9a9;
+  line-height: 25px;
+  font-family: sans-serif;
+}
+
+.tab {
+  display: flex;
+}
+
+.tab1 {
+  display: inline-block;
+  width: 150px;
+}
+
+.tab1text {
+  display: inline-block;
+  color: rgb(50, 185, 93);
+  margin-left: 20px;
+  margin-bottom: 60px;
+  font-size: 16px;
+}
+
+.tab2 {
+  display: inline-block;
+  width: 150px;
+}
+
+.tab2text {
+  display: inline-block;
+  color: rgb(50, 185, 93);
+  margin-left: 20px;
+  margin-bottom: 60px;
+  font-size: 16px;
+}
+
+.java {
+  background-color: #ffbd00;
+  font-size: 18px;
+}
+
+.portfoliotext {
+  font-family: "Source Code Pro", monospace;
+  padding-left: 30px;
+}
+
+.tab3 {
+  display: inline-block;
+  width: 150px;
+}
+
+.tab3text {
+  display: inline-block;
+  color: rgb(50, 185, 93);
+  margin-left: 20px;
+  margin-bottom: 60px;
+  font-size: 16px;
+}
